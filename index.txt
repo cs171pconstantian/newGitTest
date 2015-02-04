@@ -1,0 +1,6 @@
+<NotepadPlus>
+    <Project name="newGitTest">
+        <File name="desktop.ini" />
+        <File name="README.md" />
+    </Project>
+</NotepadPlus>
